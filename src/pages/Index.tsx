@@ -1,10 +1,9 @@
 
-
 import HomePage from "./HomePage";
 
 const Index = () => {
   return (
-   <h1>Hello</h1>
+   <HomePage />
   );
 };
 
