@@ -19,8 +19,6 @@ import RiseQuantumComputing from "./pages/news/RiseQuantamComputing";
 import MetricTalks1stWebinarInvite from "./pages/news/MetricTalks1stWebinarInvite";
 import MetricTalks1stWebinar from "./pages/news/MetricTalks1stWebinar";
 import AIautomation from "./pages/news/AIautomation";
-import TalkToAI from "./pages/TalkToAI";
-import UnifiedInterviewPage from "./Hireko/UnifiedInterviewPage";
 import { useEffect } from "react";
 import { Home } from "lucide-react";
 
@@ -33,7 +31,6 @@ const App = () => (
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="interview/definedUser" element={<TalkToAI />} />
           <Route path='services' element={<Services />} />
           <Route path="about" element={<About />} />
           <Route path="reflect" element={<News />} />

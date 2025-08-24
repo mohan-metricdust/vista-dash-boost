@@ -12,7 +12,7 @@ import HeroSlider from "@/components/HeroSlider";
 import Demo from "@/components/Demo";
 import AIPoweredServices from "@/components/AIPoweredServices";
 import { GlobeDemo } from "@/components/GlobeDemo";
-import MetricDustVisualizer from "@/MetricDustVisualizer";
+
 import Loader from "@/components/Loader";
 export default function HomePage() {
 
