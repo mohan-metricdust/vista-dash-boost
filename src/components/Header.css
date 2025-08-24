@@ -1,0 +1,12 @@
+nav {
+  transition: background-color 0.3s ease;
+}
+
+nav.black-bg {
+  background-color: #1D1D1F !important;
+}
+
+nav.black-bg.scrolled {
+  background-color: #1D1D1F !important;
+  backdrop-filter: blur(5px);
+}

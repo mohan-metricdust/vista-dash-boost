@@ -1,0 +1,28 @@
+{
+  "directory_search_theme": {
+    "theme_color_1": "#6fca9f",
+    "theme_color_2": "#00a1cc",
+    "theme_color_3": "#374151",
+    "logo_path": "/assets/images/brandlogo.png",
+    "login_background_image": "/assets/svg/ws_bg.png",
+    "logo_test": "assets/svg/logo_text.png",
+    "home-customers": "assets/svg/home/home-customers.png",
+    "avatar_icon": "assets/avatar-icon.png",
+    "office_icon": "assets/office-icon.png",
+    "home-office-locations": "assets/svg/home/home-office-locations.png",
+    "logo_favicon": "assets/hireko_favicon.png",
+    "home-employees": "assets/svg/home/home-employees.png"
+  },
+  "tenant_company_name": "test",
+  "api_key": "c9c8b31a-3d11-475b-8de2-e2437caa038b",
+  "invalidation": true,
+  "cognito": {
+    "cognito_domain_url": "beta-test-hirekoai.auth.us-east-1.amazoncognito.com",
+    "cognito_user_pool_id": "us-east-1_T0pr0EaBz",
+    "cognito_client_name": "beta-test-hirekoai-appclient",
+    "cognito_user_pool_name": "beta-test-hirekoai",
+    "cognito_domain_name": "beta-test-hirekoai",
+    "cognito_client_id": "ije8v68vpkq0ou0dqgi1nk12d"
+  },
+  "other_public_configs": {}
+}
